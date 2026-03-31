@@ -1,0 +1,7 @@
+node_modulenode_modules
+dist
+build
+release
+*.exe
+*.log
+node_modules

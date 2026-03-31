@@ -1,0 +1,20 @@
+appId: com.fermentation.control
+productName: FermentationControlApp
+
+directories:
+  output: release
+
+files:
+  - build/**/*
+  - electron.js
+  - preload.js
+
+win:
+  target: nsis
+  forceCodeSigning: false
+  signAndEditExecutable: false
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true

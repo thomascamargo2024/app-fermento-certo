@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fermento certo</string>
+    <string name="title_activity_main">fermento certo</string>
+    <string name="package_name">com.trimar.appfermentacao</string>
+    <string name="custom_url_scheme">com.trimar.appfermentacao</string>
+</resources>
